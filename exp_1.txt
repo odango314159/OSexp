@@ -1,0 +1,6 @@
+a is at 0x60103c
+b is at 0x601038
+c is at 0x60102c
+d is at 0x601030
+p is at 0x98c2a0
+q is at 0x98c6b0
