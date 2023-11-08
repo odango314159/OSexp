@@ -1,1 +1,6 @@
+In fact(2) before call: &r == 0x7ffc4cc276bc
+In fact(1) before call: &r == 0x7ffc4cc2768c
+In fact(0):&r == 0x7ffc4cc2765c
+In fact(1) after call: &r == 0x7ffc4cc2768c
+In fact(2) after call: &r == 0x7ffc4cc276bc
 fact(2) = 2
